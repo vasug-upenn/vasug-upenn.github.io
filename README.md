@@ -1,5 +1,3 @@
-Hi
-
 ## Links to Content 
 * About
 * Course Reflection
