@@ -2,5 +2,5 @@ This webpage is a respoitory for my final reflection and future thoughts about E
 
 ## Links to Content 
 
-* [Statment](Statment.md)
+* [Statement](Statement.md)
 * [Looking Forward](Looking_Forward.md)
