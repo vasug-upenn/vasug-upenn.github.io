@@ -7,3 +7,4 @@ In this class, we explored a range of topics related to digital humanities and h
   
 * Attend some digital fabrication workshops at the Education Commons next semester. I really enjoyed the 3D modeling project we did and want to try out some of the other tools they have, like laser cutters. Hands-on experience will help me get a better grasp on different fabrication techniques and how I could use them in future projects. The workshops seem like a great chance to learn the basics and meet other people interested in these methods.
 
+(Return to homepage)[README.md] 
