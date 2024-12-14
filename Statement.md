@@ -19,3 +19,5 @@ All these ideas were important when working in the Education Commons on the crit
 ![Image of 3d model of ESP](vg_esp_3d.jpeg) 
 
 In reflecting on what I have learned during this semester, I now understand that this field is much more complex than simply applying computational tools to humanities research. My initial perspective as a biochemistry student led me to view data and digital tools as neutral, objective instruments for knowledge production. However, through our readings, discussions, and hands-on experiences like visiting the SCETI imaging lab and working on our critical-making project at the Education Commons, I've developed a more nuanced understanding of how digital humanities operates at the intersection of technology, interpretation, and human experience. This deeper understanding of digital humanities has not only changed my perspective on how technology shapes knowledge production but also made me more aware of the contexts, assumptions, and human processes that shape all forms of scholarly inquiry.
+
+[Return to homepage](README.md)
